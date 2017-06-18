@@ -1,0 +1,16 @@
+{
+  "name": "running-calc-web-ui",
+  "authors": [
+    "Chris Umbel <chris@chrisumbel.com>"
+  ],
+  "description": "Front-end library of handy calculations for runners",
+  "license": "MIT",
+  "homepage": "hhttp://www.calcurun.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "Jenkinsfile"
+  ]
+}

@@ -1,0 +1,86 @@
+.clear {
+    clear: both;
+}
+
+.distance {
+    width: 100px;
+}
+
+input {
+    font-family: 'Lucida Sans', Arial;
+    font-size: 18px;    
+}
+
+button {
+    font-family: 'Lucida Sans', Arial;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.calculation_section {
+    background-color: lightgray;  
+    width: 460px;  
+}
+
+.input_group {
+    background-color: #99ccff;
+    padding: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.input_error {
+    border-color: red;
+    color: red;
+}
+
+.result {
+    color: darkgreen;
+}
+
+.result_label {
+    font-weight: bold;
+}
+
+.time {
+    text-align: right;
+}
+
+.time_segment {
+    width: 42px;
+}
+
+.time_segment_long {
+    width: 120px;
+}
+
+.units {
+    width: 80px;
+}
+
+#calc_dist td {
+    border: 1px solid black;
+
+    border-color: black;
+}
+
+#footer {
+    clear: 
+    left;
+}
+
+h2 {
+    font-size: 24px;    
+}
+
+h3 {
+    font-size: 18px;
+    font-style: italic;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Lucida Sans', Arial
+}
