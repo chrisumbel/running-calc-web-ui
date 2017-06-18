@@ -8,12 +8,12 @@
 
 input {
     font-family: 'Lucida Sans', Arial;
-    font-size: 18px;    
+    font-size: 14pt;    
 }
 
 button {
     font-family: 'Lucida Sans', Arial;
-    font-size: 18px;
+    font-size: 14pt;
     margin: 5px;
 }
 
@@ -72,15 +72,15 @@ button {
 }
 
 h2 {
-    font-size: 24px;    
+    font-size: 22pt;    
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 14pt;
     font-style: italic;
 }
 
 body {
-    font-size: 18px;
+    font-size: 14pt;
     font-family: 'Lucida Sans', Arial
 }
